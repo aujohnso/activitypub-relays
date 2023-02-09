@@ -35,6 +35,7 @@ https://relay.wig.gl/inbox
 https://relay.dog/inbox
 https://relay.darmstadt.social/inbox
 https://relay.douzepoints.social/inbox
+https://relay.ja.social/inbox
 ```
 
 ## ✅🚫 relays that are restricted with allowlists
